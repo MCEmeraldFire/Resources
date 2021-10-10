@@ -1,2 +1,6 @@
 message.welcome: "&4♦ §bWillkommen zurück zu EmeraldFire &4♦"
 message.patch: "&eAktueller Patch: &a%s&e, sehe die Patch notes with /patch!"
+
+message.devnode.master: "§a[Entwicklungs Node] Node Information:"
+message.devnode.update: "§aLetztes Plugin update: %s."
+message.devnode.server: "§aLetzer Server neustart: %s."
