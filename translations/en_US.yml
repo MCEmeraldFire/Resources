@@ -7,3 +7,4 @@ message.devnode.server: "§aLast server restart: %s."
 
 message.admin.generation.zero: "You cant have a total plot count thats less then zero!"
 message.admin.generation.start: "You cant have a start plot number thats less then zero!"
+message.admin.generation.started: "Plot generation has started... Please check console for the status!"
