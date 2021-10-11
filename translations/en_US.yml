@@ -9,3 +9,5 @@ message.admin.generation.zero: "You cant have a total plot count thats less then
 message.admin.generation.start: "You cant have a start plot number thats less then zero!"
 message.admin.generation.type: "Invalid plot type, please choose from: BASIC, LARGE or MASSIVE"
 message.admin.generation.started: "Plot generation has started... Please check console for the status!"
+
+message.noperm: "You don't have permission to use this command!"
