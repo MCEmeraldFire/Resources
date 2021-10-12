@@ -12,4 +12,4 @@ message.admin.generation.started: "Plot generation has started... Please check c
 
 message.noperm: "You don't have permission to use this command!"
 
-message.whois.title: "&7Profile of &f%s"
+message.whois.title: "Profile of &f%s"
