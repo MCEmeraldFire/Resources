@@ -11,3 +11,5 @@ message.admin.generation.type: "Invalid plot type, please choose from: BASIC, LA
 message.admin.generation.started: "Plot generation has started... Please check console for the status!"
 
 message.noperm: "You don't have permission to use this command!"
+
+message.whois.title: "&7Profile of &f%s"
