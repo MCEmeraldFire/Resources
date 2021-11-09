@@ -1,0 +1,17 @@
+message.welcome: "&4♦ &bברוכים הבאים ל-EmeraldFire &4♦"
+message.patch: "&eתיקון נוכחי: &a%s&e, ראה את הערות התיקון עם/patch"
+
+message.devnode.master: "§a[צומת פיתוח] מידע על צומת:"
+message.devnode.update: "§aעדכון תוסף אחרון: %s."
+message.devnode.server: "§aהפעלה מחדש אחרונה של השרת: %s."
+
+message.admin.generation.zero: "אתה לא יכול לקבל ספירת פלוטים הכוללת פחות מאפס!"
+message.admin.generation.start: "אתה לא יכול לקבל מספר התחלה של פלוטים שהוא פחות מאפס!"
+message.admin.generation.type: "סוג חלקה לא חוקי, נא לבחור מבין: BASIC, LARGE או MASSIVE"
+message.admin.generation.started: "יצירת העלילה החלה... אנא בדוק בקונסולה את הסטטוס!"
+
+message.noperm: "אין לך הרשאה להשתמש בפקודה זו!"
+
+message.whois.title: "&f%s-פרופיל של"
+message.whois.ranks: "דרגות"
+message.whois.joind: "תאריך הצטרפות"
